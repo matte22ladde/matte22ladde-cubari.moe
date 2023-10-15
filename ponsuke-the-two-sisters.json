@@ -1,21 +1,21 @@
 {
-  "title": "The Two Sisters",
-  "description": "[Ponsuke] Osakan Shimai Zenpen | The Two Sisters",
-  "artist": "ponsuke",
-  "author": "ponsuke",
-  "cover": "https://t.nhentai.net/galleries/2658868/cover.png",
-  "chapters": {
-    "1": {
-      "groups": {
-        "flash11": "/proxy/api/nhentai/chapter/470708/"
+   "title":"The Two Sisters",
+   "description":"[Ponsuke] Osakan Shimai Zenpen | The Two Sisters",
+   "artist":"ponsuke",
+   "author":"ponsuke",
+   "cover":"https://t.nhentai.net/galleries/2658868/cover.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "flash11":"/proxy/api/nhentai/chapter/470708/"
+         },
+         "last_updated":"1616368746"
       },
-      "last_updated": "1616368746"
-    },
-     "2": {
-      "groups": {
-        "flash11": "/proxy/api/nhentai/chapter/473304/"
-      },
-      "last_updated": "1616368746"
-    },
-  }
+      "2":{
+         "groups":{
+            "flash11":"/proxy/api/nhentai/chapter/473304/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
 }
