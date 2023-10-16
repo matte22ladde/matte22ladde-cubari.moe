@@ -1,0 +1,30 @@
+{
+   "title":"Demon's Home",
+   "description":"[Obumanjuu (obmas) Oni no Sumu le | Demon's Home] ",
+   "artist":"obmas",
+   "author":"obmas",
+   "cover":"https://i.nhentai.net/galleries/1401174/2.png",
+   "chapters":{
+      "1":{
+         "title":"Part 1",
+         "groups":{
+            "Anonymous":"/proxy/api/nhentai/chapter/269538/"
+         },
+         "last_updated":"1616368746"
+      },
+      "2":{
+         "title":"Part 2",
+         "groups":{
+            "Anonymous":"/proxy/api/nhentai/chapter/269538/"
+         },
+         "last_updated":"1616368746"
+      },
+      "3":{
+         "title":"Part 3",
+         "groups":{
+            "Anonymous":"/proxy/api/nhentai/chapter/298898/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
+}
