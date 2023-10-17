@@ -6,14 +6,14 @@
    "cover":"https://t.nhentai.net/galleries/2661787/cover.jpg",
    "chapters":{
       "1":{
-         "title":"Kouhen",
+         "title":"(One)",
          "groups":{
-            "Defski-s Moonrunes":"/proxy/api/nhentai/chapter/471150/"
+            "Defski\'s Moonrunes":"/proxy/api/nhentai/chapter/471150/"
          },
          "last_updated":"1616368746"
       },
       "2":{
-         "title":"Zenpen",
+         "title":"(Two)",
          "groups":{
             "Vasectomy231":"/proxy/api/nhentai/chapter/473304/"
          },
