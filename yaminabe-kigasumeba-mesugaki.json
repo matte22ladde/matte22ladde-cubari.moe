@@ -1,0 +1,30 @@
+{
+   "title":"Kigasumeba Mesugaki",
+   "description":"[Yaminabe] Kigasumeba Mesugaki (Naisho no Hame-gokko) [English] [Keeez] [Digital]",
+   "artist":"Yaminabe",
+   "author":"Yaminabe",
+   "cover":"https://i.nhentai.net/galleries/2655330/2.png",
+   "chapters":{
+      "1":{
+         "title":"One",
+         "groups":{
+            "Keeez":"/proxy/api/nhentai/chapter/470223/"
+         },
+         "last_updated":"1616368746"
+      },
+      "2":{
+         "title":"Two",
+         "groups":{
+            "Keeez":"/proxy/api/nhentai/chapter/475719/"
+         },
+         "last_updated":"1616368746"
+      },
+      "3":{
+         "title":"Three",
+         "groups":{
+            "Keeez":"/proxy/api/nhentai/chapter/479852/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
+}
